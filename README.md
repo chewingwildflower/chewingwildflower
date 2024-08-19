@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development!
 - 🌱 I’m currently learning different CSS Tricks to make my future portfolio look better
 - 💞️ I’m looking to collaborate on different kinds of website in the near future :)
-- 📫 How to reach me: You can e-mail me on chja.king@up.phinma.edu.ph
+- 📫 How to reach me: You can e-mail me on mowishaking@gmail.com
 
 <!---
 chewingwildflower/chewingwildflower is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
